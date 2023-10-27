@@ -1,4 +1,4 @@
-# Stamp-SRC-20
+# Stamp and SRC-20
 Bitcoin Stamp SRC-20 Project
 Argentina's World Cup Victorious Years
 
